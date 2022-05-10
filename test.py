@@ -1,5 +1,4 @@
-#Перенаправлениепотока вывода
-import sys
-sys.stdout.write('halowor')
+F=open('script.py')
 
-print('LD!')
+for line in F:
+    print(line.upper(), end=' ')
