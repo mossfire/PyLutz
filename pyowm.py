@@ -1,5 +1,5 @@
 #работа с OWM сервисом погоды
-import pyowm
+#import pyowm
 import PyQt5
 from PyQt5 import QtWidgets
 import sys
